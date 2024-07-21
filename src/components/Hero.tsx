@@ -45,7 +45,7 @@ export function Hero() {
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
       <Buttoncta
-          href="https://www.youtube.com/watch?v=gO8N3L_aERg&t=3s&ab_channel=TheOffice&mute=1"
+          href="https://github.com/malcolm-decuire"
           variant="outline"
         >
           <svg
@@ -57,7 +57,7 @@ export function Hero() {
           <span className="ml-3">Github</span>
         </Buttoncta>
         <Buttoncta
-          href="https://github.com/malcolm-decuire"
+          href="https://www.youtube.com/watch?v=gO8N3L_aERg&t=3s&ab_channel=TheOffice&mute=1"
           variant="outline"
         >
           <svg
