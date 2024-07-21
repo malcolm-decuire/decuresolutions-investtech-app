@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 20240720 removed two dots Global styles to remove list item markers */
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
